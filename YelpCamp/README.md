@@ -1,4 +1,5 @@
 # YelpCamp
+https://yelpcamp-campgrounds-production.up.railway.app/
 YelpCamp is a full-stack website project where users can create and review campgrounds.
 In order to review or create a campground, you must have an account.
 
@@ -23,7 +24,6 @@ This project is being created created using Node.js, Express, MongoDB, and Boots
 
 >Bootstrap - free and open-source front-end web framework for designing websites and web applications quickly
 
->jQuery - cross-platform JavaScript library designed to simplify the client-side scripting of HTML
 
 >DOM Manipulation - is a platform and language-neutral interface that allows programs and scripts to dynamically access and update the content, structure, and style of a document
 
@@ -39,9 +39,7 @@ This project is being created created using Node.js, Express, MongoDB, and Boots
 
 >Data Associations - associating user data with the respective campgrounds and comments using reference method
 
->Heroku - cloud platform as a service used as a web application deployment model
 
->AWS - mongodb is hosted on amazon ec2 instance
 
 ## Screenshots
 >HomePage
